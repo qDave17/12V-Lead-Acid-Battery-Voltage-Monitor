@@ -1,0 +1,76 @@
+\t (00:00:09) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:09)     Journal start - Sun Jan 19 15:26:15 2025
+\t (00:00:09)         Host=DESKTOP-FN04757 User=dave Pid=18820 CPUs=8
+\t (00:00:09) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:09) 
+   (00:00:10) Loading axlcore.cxt 
+\t (00:00:10) Opening existing design...
+\d (00:00:11) Design opened: D:/Documents/orcad/pcad/allegro/DUBLA1 P4.brd
+\i (00:00:12) trapsize 331
+\i (00:00:12) trapsize 338
+\i (00:00:12) trapsize 338
+\i (00:00:12) trapsize 1714
+\i (00:00:13) etchedit 
+\i (00:00:13) xhilite 
+\i (00:00:13) xname_flush 
+\i (00:00:13) done 
+\i (00:00:13) etchedit 
+\i (00:00:16) trapsize 492
+\i (00:00:17) trapsize 338
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 848.31 697.64
+\i (00:00:17) trapsize 676
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 846.96 696.28
+\i (00:00:17) trapsize 1353
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 811.77 688.16
+\i (00:00:18) trapsize 2706
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 763.07 688.16
+\t (00:00:18) Grids are drawn 50.00, 50.00 apart for enhanced viewability.
+\i (00:00:18) trapsize 5412
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 1532.03 688.17
+\i (00:00:18) trapsize 2706
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 2885.03 688.17
+\i (00:00:18) trapsize 5412
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 4248.84 644.88
+\t (00:00:18) Grids are drawn 100.00, 100.00 apart for enhanced viewability.
+\i (00:00:18) trapsize 11379
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 1972.56 1458.23
+\t (00:00:19) Grids are drawn 50.00, 50.00 apart for enhanced viewability.
+\i (00:00:19) trapsize 5689
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 1910.31 1446.86
+\i (00:00:20) trapsize 2845
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 1574.64 1418.41
+\i (00:00:20) trapsize 1422
+\i (00:00:22) zoom fit 
+\i (00:00:22) trapsize 1759
+\i (00:00:26) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: OUTLINE"
+\i (00:00:26) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: OUTLINE"
+\i (00:00:27) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SILKSCREEN_BOTTOM"
+\i (00:00:27) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SILKSCREEN_BOTTOM"
+\i (00:00:29) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SOLDERMASK_BOTTOM"
+\i (00:00:29) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SOLDERMASK_BOTTOM"
+\i (00:00:31) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:00:31) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:01:56) exit 
+\e (00:01:56) Do you want to save the changes you made to DUBLA1 P4.brd?
+\i (00:01:57) fillin no 
+\t (00:01:58)     Journal end - Sun Jan 19 15:28:04 2025

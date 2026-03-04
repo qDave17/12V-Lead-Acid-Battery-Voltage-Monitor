@@ -1,0 +1,587 @@
+(PCB "DUBLA1 P4"
+ (description
+  (timeStamp "2025 01 14 18 04 40")
+  (program "CAPTURE.EXE" (Version "17.2-2016 - D"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "Proiect TCAD 2024 \"Monitor Baterie 12V\"")
+  (date "Friday, January 10, 2025")
+  (document "D:\\DOCUMENTS\\ORCAD\\PCAD\\DUBLA1 P4.DSN")
+  (revision "")
+  (organization "Facultatea de Electronica Telecomunicatii si Tehnologia Informatiei - UNSTPB")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component LED
+   (place D10
+    (property 
+     (timestamp 00000143)
+     ("Source Package" LED)
+     (Value "RED LED")
+     ("PCB Footprint" CAP196)))
+   (place D1
+    (property 
+     (timestamp 0000009A)
+     ("Source Package" LED)
+     (Value "YELLOW LED")
+     ("PCB Footprint" CAP196)))
+   (place D2
+    (property 
+     (timestamp 000000AA)
+     ("Source Package" LED)
+     (Value "YELLOW LED")
+     ("PCB Footprint" CAP196)))
+   (place D3
+    (property 
+     (timestamp 000000D3)
+     ("Source Package" LED)
+     (Value "YELLOW LED")
+     ("PCB Footprint" CAP196)))
+   (place D4
+    (property 
+     (timestamp 000000E3)
+     ("Source Package" LED)
+     (Value "GREEN LED")
+     ("PCB Footprint" CAP196)))
+   (place D5
+    (property 
+     (timestamp 000000F3)
+     ("Source Package" LED)
+     (Value "GREEN LED")
+     ("PCB Footprint" CAP196)))
+   (place D6
+    (property 
+     (timestamp 00000103)
+     ("Source Package" LED)
+     (Value "GREEN LED")
+     ("PCB Footprint" CAP196)))
+   (place D7
+    (property 
+     (timestamp 00000113)
+     ("Source Package" LED)
+     (Value "GREEN LED")
+     ("PCB Footprint" CAP196)))
+   (place D8
+    (property 
+     (timestamp 00000123)
+     ("Source Package" LED)
+     (Value "GREEN LED")
+     ("PCB Footprint" CAP196)))
+   (place D9
+    (property 
+     (timestamp 00000133)
+     ("Source Package" LED)
+     (Value "RED LED")
+     ("PCB Footprint" CAP196))))
+  (component R
+   (place R1
+    (property 
+     (timestamp 0000021D)
+     ("Source Package" R)
+     (Value 4.7k)
+     ("PCB Footprint" SMR2512)))
+   (place R2
+    (property 
+     (timestamp 0000023D)
+     ("Source Package" R)
+     (Value "1.2 K")
+     ("PCB Footprint" RES400))))
+  (component CON2
+   (place CN1
+    (property 
+     (timestamp 000001B9)
+     ("Source Package" CON2)
+     (Value "BATTERY 12 VDC")
+     ("PCB Footprint" JUMPER2))))
+  (component POT
+   (place PR1
+    (property 
+     (timestamp 000016DE)
+     ("Source Package" POT)
+     (Value "4.7K/5K PRESET")
+     ("PCB Footprint" VRES55)))
+   (place PR2
+    (property 
+     (timestamp 0000177F)
+     ("Source Package" POT)
+     (Value "4.7K/5K PRESET")
+     ("PCB Footprint" VRES55))))
+  (component JUMPER_1
+   (place J1
+    (property 
+     (timestamp 0000189E)
+     ("Source Package" JUMPER_1)
+     (Value "MODE JUMPER")
+     ("PCB Footprint" JUMPER2))))
+  (component CP
+   (place C1
+    (property 
+     (timestamp 000001D2)
+     ("Source Package" CP)
+     (Value 10uF/50V)
+     ("PCB Footprint" CAP196))))
+  (component C
+   (place C2
+    (property 
+     (timestamp 000001EB)
+     ("Source Package" C)
+     (Value 100nF)
+     ("PCB Footprint" CAPCK05))))
+  (component LM3914
+   (place U1
+    (property 
+     (timestamp 0000019C)
+     ("Source Package" LM3914)
+     (Value LM3914)
+     ("PCB Footprint" DIP18_3)))))
+ (library
+  (image LM3914
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_17.2\\TOOLS\\CAPTURE\\LIBRARY\\MISC.OLB))
+   (pin 999 5
+    (property 
+     (pinname SIGIN)
+     (pintype 0)
+     (Name SIGIN)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N05807)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname V+)
+     (pintype 7)
+     (Name V+)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" +12V)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname "V-")
+     (pintype 7)
+     (Name "V-")
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" GND)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 7
+    (property 
+     (pinname REFOUT)
+     (pintype 2)
+     (Name REFOUT)
+     (Number 7)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N01765)
+     (Order 3)
+     ("Is No Connect" False)))
+   (pin 999 9
+    (property 
+     (pinname MODE)
+     (pintype 0)
+     (Name MODE)
+     (Number 9)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N02323)
+     (Order 4)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname RLO)
+     (pintype 4)
+     (Name RLO)
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01847)
+     (Order 5)
+     ("Is No Connect" False)))
+   (pin 999 6
+    (property 
+     (pinname RHI)
+     (pintype 4)
+     (Name RHI)
+     (Number 6)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01765)
+     (Order 6)
+     ("Is No Connect" False)))
+   (pin 999 8
+    (property 
+     (pinname "REF ADJ")
+     (pintype 0)
+     (Name "REF ADJ")
+     (Number 8)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N01847)
+     (Order 7)
+     ("Is No Connect" False)))
+   (pin 999 1
+    (property 
+     (pinname LED1)
+     (pintype 2)
+     (Name LED1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N00786)
+     (Order 8)
+     ("Is No Connect" False)))
+   (pin 999 18
+    (property 
+     (pinname LED2)
+     (pintype 2)
+     (Name LED2)
+     (Number 18)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N00798)
+     (Order 9)
+     ("Is No Connect" False)))
+   (pin 999 17
+    (property 
+     (pinname LED3)
+     (pintype 2)
+     (Name LED3)
+     (Number 17)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N00816)
+     (Order 10)
+     ("Is No Connect" False)))
+   (pin 999 16
+    (property 
+     (pinname LED4)
+     (pintype 2)
+     (Name LED4)
+     (Number 16)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N00828)
+     (Order 11)
+     ("Is No Connect" False)))
+   (pin 999 15
+    (property 
+     (pinname LED5)
+     (pintype 2)
+     (Name LED5)
+     (Number 15)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N01011)
+     (Order 12)
+     ("Is No Connect" False)))
+   (pin 999 14
+    (property 
+     (pinname LED6)
+     (pintype 2)
+     (Name LED6)
+     (Number 14)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N01038)
+     (Order 13)
+     ("Is No Connect" False)))
+   (pin 999 13
+    (property 
+     (pinname LED7)
+     (pintype 2)
+     (Name LED7)
+     (Number 13)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N01063)
+     (Order 14)
+     ("Is No Connect" False)))
+   (pin 999 12
+    (property 
+     (pinname LED8)
+     (pintype 2)
+     (Name LED8)
+     (Number 12)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N01185)
+     (Order 15)
+     ("Is No Connect" False)))
+   (pin 999 11
+    (property 
+     (pinname LED9)
+     (pintype 2)
+     (Name LED9)
+     (Number 11)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N01208)
+     (Order 16)
+     ("Is No Connect" False)))
+   (pin 999 10
+    (property 
+     (pinname LED10)
+     (pintype 2)
+     (Name LED10)
+     (Number 10)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N01233)
+     (Order 17)
+     ("Is No Connect" False))))
+  (image R
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_17.2\\TOOLS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" +12V)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01392)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image CP
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_17.2\\TOOLS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" +12V)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image CON2
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_17.2\\TOOLS\\CAPTURE\\LIBRARY\\CONNECTOR.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" +12V)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image C
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_17.2\\TOOLS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" +12V)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image JUMPER_1
+   (property 
+    (sourcelib "C:\\USERS\\SIMIO\\ONEDRIVE\\DESKTOP\\P-TCAD 2024 S1\\DUBLA1 P4.DSN"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" +12V)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N02323)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image LED
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_17.2\\TOOLS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname ANODE)
+     (pintype 4)
+     (Name ANODE)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" +12V)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname CATHODE)
+     (pintype 4)
+     (Name CATHODE)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01233)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image POT
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_17.2\\TOOLS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname A)
+     (pintype 4)
+     (Name A)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname B)
+     (pintype 4)
+     (Name B)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01847)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname WIPER)
+     (pintype 4)
+     (Name WIPER)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N05934)
+     (Order 2)
+     ("Is No Connect" False)))))
+ (network
+  (net +12V
+   (pins
+     D1-1 D2-1 D3-1 D4-1 D5-1 D6-1 D7-1 D8-1 D9-1
+     D10-1 U1-3 CN1-1 C1-1 C2-1 R1-1 J1-1))
+  (net GND
+    (property 
+     (nettype S))
+   (pins
+     U1-2 CN1-2 C1-2 C2-2 PR1-1 PR2-3))
+  (net N00786
+   (pins
+     D1-2 U1-1))
+  (net N00798
+   (pins
+     D2-2 U1-18))
+  (net N00816
+   (pins
+     D3-2 U1-17))
+  (net N00828
+   (pins
+     D4-2 U1-16))
+  (net N01011
+   (pins
+     D5-2 U1-15))
+  (net N01038
+   (pins
+     D6-2 U1-14))
+  (net N01063
+   (pins
+     D7-2 U1-13))
+  (net N01185
+   (pins
+     D8-2 U1-12))
+  (net N01208
+   (pins
+     D9-2 U1-11))
+  (net N01233
+   (pins
+     D10-2 U1-10))
+  (net N01392
+   (pins
+     R1-2 PR2-1))
+  (net N01765
+   (pins
+     U1-7 U1-6 R2-1))
+  (net N01847
+   (pins
+     U1-4 U1-8 PR1-3))
+  (net N02323
+   (pins
+     U1-9 J1-2))
+  (net N05807
+   (pins
+     U1-5 PR2-2))
+  (net N05934
+   (pins
+     R2-2 PR1-2)))
+)

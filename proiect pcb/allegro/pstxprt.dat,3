@@ -1,0 +1,200 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Dec-15-2024 at 21:42:50 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='DUBLA1 P4';
+ POST_TIME='Jul 30 2017 03:29:02';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CP_CAP196_10UF/50V':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS456@DISCRETE.CP.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins456@discrete.\cp.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins456@discrete.\cp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_CAPCK05_100NF':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS481@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins481@discrete.\c.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins481@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CN1 'CON2_JUMPER2_BATTERY 12 VDC':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS431@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins431@connector.\con2.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins431@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_CAP196_YELLOW LED':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS144@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins144@discrete.\led.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins144@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 'LED_CAP196_RED LED':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS313@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins313@discrete.\led.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins313@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_CAP196_YELLOW LED':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS160@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins160@discrete.\led.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins160@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_CAP196_YELLOW LED':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS201@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins201@discrete.\led.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins201@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_CAP196_GREEN LED':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS217@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins217@discrete.\led.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins217@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_CAP196_GREEN LED':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS233@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins233@discrete.\led.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins233@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'LED_CAP196_GREEN LED':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS249@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins249@discrete.\led.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins249@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'LED_CAP196_GREEN LED':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS265@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins265@discrete.\led.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins265@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 'LED_CAP196_GREEN LED':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS281@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins281@discrete.\led.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins281@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 'LED_CAP196_RED LED':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS297@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins297@discrete.\led.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins297@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'JUMPER_1_JUMPER2_MODE JUMPER':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS6292@DUBLA1 P4.JUMPER_1.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins6292@\dubla1 p4\.\jumper_1.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins6292@\dubla1 p4\.\jumper_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ PR1 'POT_VRES55_4.7K/5K PRESET':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS5842@DISCRETE.POT.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins5842@discrete.\pot.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins5842@discrete.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ PR2 'POT_VRES55_4.7K/5K PRESET':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS6003@DISCRETE.POT.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins6003@discrete.\pot.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins6003@discrete.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_SMR2512_4.7K':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS531@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins531@discrete.\r.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins531@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES400_1.2 K':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS563@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins563@discrete.\r.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins563@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'LM3914_DIP18_3_LM3914':;
+
+SECTION_NUMBER 1
+ '@DUBLA1 P4.SCHEMATIC1(SCH_1):INS370@MISC.LM3914.NORMAL(CHIPS)':
+ C_PATH='@\dubla1 p4\.schematic1(sch_1):ins370@misc.\lm3914.normal\(chips)',
+ P_PATH='@\dubla1 p4\.schematic1(sch_1):page1_ins370@misc.\lm3914.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

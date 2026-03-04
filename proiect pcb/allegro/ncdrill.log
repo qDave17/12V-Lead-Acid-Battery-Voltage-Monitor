@@ -1,0 +1,60 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : DUBLA1 P4.brd                                 )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Tue Jan 14 20:17:39 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	YES
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		YES
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+ WARNING(SPMHMF-358): Design precision is the same as that of the drill output file data.
+ WARNING(SPMHMF-359): Data rounding errors may still be possible.
+
+
+ Drill files being output to directory 'D:/Documents/orcad/pcad/allegro' ...
+
+
+
+     'DUBLA1 P4-1-2.drl' created for holes connecting TOP and BOTTOM
+     ---------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  13.0000    0.0000/  0.0000      PLATED         34
+            2.  31.0000    0.0000/  0.0000      PLATED          6
+            3.  36.0000    0.0000/  0.0000      PLATED         44
+            4.  42.0000    0.0000/  0.0000      PLATED          4
+            5. 125.0000    0.0000/  0.0000  NON_PLATED          4
+
+     ---- Total holes:                                         92
+
+     ---- Total head travel:              3.57 feet (1.09 meters)
+

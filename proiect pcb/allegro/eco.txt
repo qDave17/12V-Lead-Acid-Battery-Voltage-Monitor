@@ -1,0 +1,201 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/DOCUMENTS/ORCAD/PCAD/allegro/DUBLA1 P4.brd                               |
+|                                                    Sun Jan 05 17:11:14 2025  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +12V         pins ADDED TO this new net
+                                 C1.1           C2.1           CN1.1          
+                                 D1.1           D2.1           D3.1           
+                                 D4.1           D5.1           D6.1           
+                                 D7.1           D8.1           D9.1           
+                                 D10.1          J1.1           R1.1           
+                                 U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 C1.2           C2.2           CN1.2          
+                                 PR1.1          PR2.3          U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00786       pins ADDED TO this new net
+                                 D1.2           U1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00798       pins ADDED TO this new net
+                                 D2.2           U1.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00816       pins ADDED TO this new net
+                                 D3.2           U1.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00828       pins ADDED TO this new net
+                                 D4.2           U1.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01011       pins ADDED TO this new net
+                                 D5.2           U1.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01038       pins ADDED TO this new net
+                                 D6.2           U1.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01063       pins ADDED TO this new net
+                                 D7.2           U1.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01185       pins ADDED TO this new net
+                                 D8.2           U1.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01208       pins ADDED TO this new net
+                                 D9.2           U1.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01233       pins ADDED TO this new net
+                                 D10.2          U1.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01392       pins ADDED TO this new net
+                                 PR2.1          R1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/DOCUMENTS/ORCAD/PCAD/allegro/DUBLA1 P4.brd                               |
+|                                                    Sun Jan 05 17:11:14 2025  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N01765       pins ADDED TO this new net
+                                 R2.1           U1.6           U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01847       pins ADDED TO this new net
+                                 PR1.3          U1.4           U1.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02323       pins ADDED TO this new net
+                                 J1.2           U1.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05807       pins ADDED TO this new net
+                                 PR2.2          U1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05934       pins ADDED TO this new net
+                                 PR1.2          R2.2           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/DOCUMENTS/ORCAD/PCAD/allegro/DUBLA1 P4.brd                               |
+|                                                    Sun Jan 05 17:11:14 2025  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CON2_JUMPER2_BATTERY 12 VDC
+ CP_CAP196_10UF/50V
+ C_CAPCK05_100NF
+ JUMPER_1_JUMPER2_MODE JUMPER
+ LED_CAP196_GREEN LED
+ LED_CAP196_RED LED
+ LED_CAP196_YELLOW LED
+ LM3914_DIP18_3_LM3914
+ POT_VRES55_4.7K/5K PRESET
+ R_RES400_1.2 K
+ R_SMR2512_4.7K
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/DOCUMENTS/ORCAD/PCAD/allegro/DUBLA1 P4.brd                               |
+|                                                    Sun Jan 05 17:11:14 2025  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CP_CAP196_10UF/50V    
+ C2                  C_CAPCK05_100NF       
+ CN1                 CON2_JUMPER2_BATTERY 12 VDC 
+ D1                  LED_CAP196_YELLOW LED 
+ D2                  LED_CAP196_YELLOW LED 
+ D3                  LED_CAP196_YELLOW LED 
+ D4                  LED_CAP196_GREEN LED  
+ D5                  LED_CAP196_GREEN LED  
+ D6                  LED_CAP196_GREEN LED  
+ D7                  LED_CAP196_GREEN LED  
+ D8                  LED_CAP196_GREEN LED  
+ D9                  LED_CAP196_RED LED    
+ D10                 LED_CAP196_RED LED    
+ J1                  JUMPER_1_JUMPER2_MODE JUMPER 
+ PR1                 POT_VRES55_4.7K/5K PRESET 
+ PR2                 POT_VRES55_4.7K/5K PRESET 
+ R1                  R_SMR2512_4.7K        
+ R2                  R_RES400_1.2 K        
+ U1                  LM3914_DIP18_3_LM3914 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:/DOCUMENTS/ORCAD/PCAD/allegro/DUBLA1 P4.brd                               |
+|                                                    Sun Jan 05 17:11:14 2025  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C1.2                           SECTION        
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           SECTION        
+ CN1.2                          PRIM_FILE      .\pstchip.dat
+ CN1.2                          SECTION        
+ D1.2                           PRIM_FILE      .\pstchip.dat
+ D1.2                           SECTION        
+ D2.2                           PRIM_FILE      .\pstchip.dat
+ D2.2                           SECTION        
+ D3.2                           PRIM_FILE      .\pstchip.dat
+ D3.2                           SECTION        
+ D4.2                           PRIM_FILE      .\pstchip.dat
+ D4.2                           SECTION        
+ D5.2                           PRIM_FILE      .\pstchip.dat
+ D5.2                           SECTION        
+ D6.2                           PRIM_FILE      .\pstchip.dat
+ D6.2                           SECTION        
+ D7.2                           PRIM_FILE      .\pstchip.dat
+ D7.2                           SECTION        
+ D8.2                           PRIM_FILE      .\pstchip.dat
+ D8.2                           SECTION        
+ D9.2                           PRIM_FILE      .\pstchip.dat
+ D9.2                           SECTION        
+ D10.2                          PRIM_FILE      .\pstchip.dat
+ D10.2                          SECTION        
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J1.2                           SECTION        
+ PR1.2                          PRIM_FILE      .\pstchip.dat
+ PR1.2                          SECTION        
+ PR2.2                          PRIM_FILE      .\pstchip.dat
+ PR2.2                          SECTION        
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           SECTION        
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           SECTION        
+ U1.2                           PRIM_FILE      .\pstchip.dat
+ U1.2                           SECTION        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:/DOCUMENTS/ORCAD/PCAD/allegro/DUBLA1 P4.brd                               |
+|                                                    Sun Jan 05 17:11:14 2025  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      56                                        |
+|       Comp definitions added:      11                                        |
+|       Components added      :      19                                        |
+|       Slot property added   :      38                                        |
+|                                                                              |
+|   Total ECO changes reported:     124                                        |
+|------------------------------------------------------------------------------|

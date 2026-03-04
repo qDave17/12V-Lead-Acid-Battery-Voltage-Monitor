@@ -1,0 +1,127 @@
+Wire List
+
+Proiect TCAD 2024 "Monitor Baterie 12V"       Revised: Friday, January 10, 2025
+D:\DOCUMENTS\ORCAD\PCAD\DUBLA1 P4.DSN         Revision: 
+Facultatea de Electronica Telecomunicatii si Tehnologia Informatiei - UNSTPB
+
+
+
+
+
+<<< Component List >>>
+10uF/50V                      C1        CAP196
+100nF                         C2        CAPCK05
+BATTERY 12 VDC                CN1       JUMPER2
+YELLOW LED                    D1        CAP196
+RED LED                       D10       CAP196
+YELLOW LED                    D2        CAP196
+YELLOW LED                    D3        CAP196
+GREEN LED                     D4        CAP196
+GREEN LED                     D5        CAP196
+GREEN LED                     D6        CAP196
+GREEN LED                     D7        CAP196
+GREEN LED                     D8        CAP196
+RED LED                       D9        CAP196
+MODE JUMPER                   J1        JUMPER2
+4.7K/5K PRESET                PR1       VRES55
+4.7K/5K PRESET                PR2       VRES55
+4.7k                          R1        SMR2512
+1.2 K                         R2        RES400
+LM3914                        U1        DIP18_3
+
+<<< Wire List >>>
+
+  NODE  REFERENCE    PIN #   PIN NAME           PIN TYPE       PART VALUE
+
+[00001] +12V
+        D1              1       ANODE           Passive        YELLOW LED
+        D2              1       ANODE           Passive        YELLOW LED
+        D3              1       ANODE           Passive        YELLOW LED
+        D4              1       ANODE           Passive        GREEN LED
+        D5              1       ANODE           Passive        GREEN LED
+        D6              1       ANODE           Passive        GREEN LED
+        D7              1       ANODE           Passive        GREEN LED
+        D8              1       ANODE           Passive        GREEN LED
+        D9              1       ANODE           Passive        RED LED
+        D10             1       ANODE           Passive        RED LED
+        U1              3       V+              Power          LM3914
+        CN1             1       1               Passive        BATTERY 12 VDC
+        C1              1       1               Passive        10uF/50V
+        C2              1       1               Passive        100nF
+        R1              1       1               Passive        4.7k
+        J1              1       1               Passive        MODE JUMPER
+
+[00002] GND
+        U1              2       V-              Power          LM3914
+        CN1             2       2               Passive        BATTERY 12 VDC
+        C1              2       2               Passive        10uF/50V
+        C2              2       2               Passive        100nF
+        PR1             1       A               Passive        4.7K/5K PRESET
+        PR2             3       B               Passive        4.7K/5K PRESET
+
+[00003] N00786
+        D1              2       CATHODE         Passive        YELLOW LED
+        U1              1       LED1            Output         LM3914
+
+[00004] N00798
+        D2              2       CATHODE         Passive        YELLOW LED
+        U1              18      LED2            Output         LM3914
+
+[00005] N00816
+        D3              2       CATHODE         Passive        YELLOW LED
+        U1              17      LED3            Output         LM3914
+
+[00006] N00828
+        D4              2       CATHODE         Passive        GREEN LED
+        U1              16      LED4            Output         LM3914
+
+[00007] N01011
+        D5              2       CATHODE         Passive        GREEN LED
+        U1              15      LED5            Output         LM3914
+
+[00008] N01038
+        D6              2       CATHODE         Passive        GREEN LED
+        U1              14      LED6            Output         LM3914
+
+[00009] N01063
+        D7              2       CATHODE         Passive        GREEN LED
+        U1              13      LED7            Output         LM3914
+
+[00010] N01185
+        D8              2       CATHODE         Passive        GREEN LED
+        U1              12      LED8            Output         LM3914
+
+[00011] N01208
+        D9              2       CATHODE         Passive        RED LED
+        U1              11      LED9            Output         LM3914
+
+[00012] N01233
+        D10             2       CATHODE         Passive        RED LED
+        U1              10      LED10           Output         LM3914
+
+[00013] N01392
+        R1              2       2               Passive        4.7k
+        PR2             1       A               Passive        4.7K/5K PRESET
+
+[00014] N01765
+        U1              7       REFOUT          Output         LM3914
+        U1              6       RHI             Passive        LM3914
+        R2              1       1               Passive        1.2 K
+
+[00015] N01847
+        U1              4       RLO             Passive        LM3914
+        U1              8       REF ADJ         Input          LM3914
+        PR1             3       B               Passive        4.7K/5K PRESET
+
+[00016] N02323
+        U1              9       MODE            Input          LM3914
+        J1              2       2               Passive        MODE JUMPER
+
+[00017] N05807
+        U1              5       SIGIN           Input          LM3914
+        PR2             2       WIPER           Passive        4.7K/5K PRESET
+
+[00018] N05934
+        R2              2       2               Passive        1.2 K
+        PR1             2       WIPER           Passive        4.7K/5K PRESET
+

@@ -1,0 +1,103 @@
+\t (00:00:03) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sun Jan 19 17:48:38 2025
+\t (00:00:03)         Host=DESKTOP-FN04757 User=dave Pid=12572 CPUs=8
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:08) Design opened: D:/Documents/orcad/pcad/allegro/DUBLA1 P4.brd
+\i (00:00:08) trapsize 331
+\i (00:00:08) trapsize 338
+\i (00:00:08) trapsize 338
+\i (00:00:08) trapsize 2069
+\i (00:00:09) etchedit 
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 650.10 751.08
+\i (00:00:10) trapsize 676
+\i (00:00:12) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:00:12) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:00:13) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged
+\i (00:00:13) QtSignal ColorVisibilityPane CVPViewDropdown activated
+\i (00:00:17) QtSignal ColorVisibilityPane CVPGlobalVisRestore clicked
+\i (00:00:18) QtSignal ColorVisibilityPane CVPViewDropdown activated
+\i (00:00:19) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: ASSEMBLY_DRAWING_TOP"
+\i (00:00:19) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: ASSEMBLY_DRAWING_TOP"
+\i (00:00:20) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:00:20) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:00:21) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: ASSEMBLY_DRAWING_TOP"
+\i (00:00:21) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: ASSEMBLY_DRAWING_TOP"
+\i (00:00:22) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged
+\i (00:00:22) QtSignal ColorVisibilityPane CVPViewDropdown activated
+\i (00:00:25) color192 
+\i (00:00:25) etchedit 
+\i (00:00:28) QtSignal CVDLoadMenu CVDLoadCustomAction triggered
+\i (00:00:35) QtFillin D:/Documents/orcad/pcad/allegro/savedcolor.col
+\i (00:00:42) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (00:00:44) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (00:00:45) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:00:51) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (00:01:10) trapsize 1812
+\i (00:02:24) QtSignal ColorVisibilityDialog CVDTabs currentChanged Display
+\i (00:02:25) QtSignal ColorVisibilityDialog CVDTabs currentChanged Layers
+\i (00:02:34) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:02:50) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up Conductor
+\i (00:03:06) QtSignal CVDLayerTable VertHeader clickedCheckBox 1
+\i (00:03:06) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (00:03:15) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:03:28) QtSignal CVDLayerTable VertHeader clickedCheckBox 17
+\i (00:03:28) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
+\i (00:03:35) QtSignal CVDLayerTable VertHeader clickedCheckBox 8
+\i (00:03:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (00:03:43) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (00:03:47) QtSignal CVDLayerTable VertHeader clickedCheckBox 0
+\i (00:03:47) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:03:59) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:04:03) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
+\i (00:04:08) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 15 0
+\i (00:04:08) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 15 0
+\i (00:04:08) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:04:11) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:04:12) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "Ref des"
+\i (00:04:15) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 7 0
+\i (00:04:15) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:04:15) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:16) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Drawing format"
+\i (00:05:22) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 0 0
+\i (00:05:22) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:05:22) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:25) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:05:29) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:05:30) trapsize 984
+\i (00:05:31) trapsize 676
+\i (00:05:31) zoom out 1 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom out 1050.59 692.90
+\i (00:05:31) trapsize 1353
+\i (00:05:31) zoom out 1 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom out 1039.77 676.67
+\i (00:05:31) trapsize 2706
+\i (00:05:31) zoom out 1 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom out 1034.35 676.67
+\t (00:05:31) Grids are drawn 50.00, 50.00 apart for enhanced viewability.
+\i (00:05:31) trapsize 5412
+\i (00:05:31) zoom out 1 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom out 1759.40 676.68
+\t (00:05:31) Grids are drawn 100.00, 100.00 apart for enhanced viewability.
+\i (00:05:31) trapsize 11379
+\i (00:05:31) zoom out 1 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom out 16378.18 2869.21
+\i (00:05:31) trapsize 11379
+\i (00:05:33) zoom fit 
+\i (00:05:33) trapsize 1759
+\i (00:05:37) setwindow form.find
+\i (00:05:37) FORM find all_off  
+\i (00:05:45) setwindow pcb
+\i (00:05:45) exit 
+\e (00:05:45) Do you want to save the changes you made to DUBLA1 P4.brd?
+\i (00:05:46) fillin yes 
+\t (00:05:46)     Journal end - Sun Jan 19 17:54:21 2025
