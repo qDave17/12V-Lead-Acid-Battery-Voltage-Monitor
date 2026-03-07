@@ -5,7 +5,7 @@ la Texas Instruments.
 
 Circuitul LM3914 detectează nivelul de tensiune la intrare și controlează cele 10 diode
 emițătoare de lumină (LED-uri) în funcție de tensiunea detectată. Alimentarea circuitului se realizează
-de la aceeași baterie, nefiind necesară o sursă de alimentare separată.
+de la aceeași baterie, nefiind necesară, așadar, o sursă de alimentare separată.
 
 La intrarea circuitului, tensiunea bateriei este aplicată unui pin de intrare al LM3914, care
 detectează nivelul tensiunii și activează corespunzător unul sau mai multe LED-uri de pe afișaj. IC-ul
